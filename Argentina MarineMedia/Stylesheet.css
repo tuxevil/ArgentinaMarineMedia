@@ -1,0 +1,250 @@
+﻿body
+{
+	background-color: #F0F0E7;
+	font-family: Verdana;
+	font-size: 14px;
+}
+
+.websitearea
+{
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo
+{
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 270px;
+}
+
+.mainContent
+{
+	width: 610px;
+	float: left;
+}
+
+.upcomingEvents
+{
+	clear: both;
+	width: 200px;
+	height: 336px;
+	border: solid 2px #777777;
+	float: left;
+	-moz-box-shadow: 0 0 50px #C1C1B9; 
+    -webkit-box-shadow: 0 0 50px #C1C1B9; 
+
+}
+
+.upcomingEventsHeader
+{
+	background-color: #393939;
+	width: 100%;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	float: left;
+}
+
+.upcomingEventsHeader span
+{
+	color: White;
+	margin-left: 10px;
+	font-size: 11px;
+	font-weight: bolder;
+}
+
+.upcomingEventsBody
+{
+	background-color: #FCD521;
+	height: 100%;
+}
+
+.upcomingEventItem
+{
+	width: 180px;
+	margin-left: 10px;
+}
+
+.upcomingEventItemName
+{
+	margin-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+	color: #393939;
+	font-weight: bold;
+	border-bottom: solid 1px #695F33;
+	display: block;
+	font-size: 12px;
+	float: left;
+}
+
+.upcomingEventItemInfo
+{
+	width: 100%;
+	color: #393939;
+	display: block;
+	font-size: 12px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+}
+
+.advertising
+{
+	width: 200px;
+	height: 336px;
+	border: solid 2px #777777;
+	float: left;
+	-moz-box-shadow: 0 0 50px #C1C1B9; 
+    -webkit-box-shadow: 0 0 50px #C1C1B9; 
+}
+
+
+
+.imagesmenu
+{
+	width: 550px;
+	height: 220px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 10px;	
+}
+
+.imageslink
+{
+	height: 100px;
+	width: 100px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	display: block;
+	float: left;
+	position: relative;
+	text-decoration: none;
+}
+
+.imageless
+{
+	height: 100px;
+	width: 100px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	display: block;
+	float: left;
+	background-color: #B1B1B1;
+}
+
+.imageslink span
+{
+	height: 100px;
+	width: 100px;
+	color: White;
+	font-weight: bold;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.contactus
+{
+	float: right;
+	margin-right: 14px;
+	margin-top: -20px;
+}
+
+.contactus a
+{
+	text-decoration: none;
+	color: #4B4B4B;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.mainMenu
+{
+	width: 600px;	
+	margin-left: 10px;
+}
+
+.mainMenu a
+{
+	display: block;
+	float: left;
+	padding: 8px;
+	background-color: Black;
+	color: White;
+	margin: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.realware
+{
+	clear: both;
+	width: 1024px;
+	border-top: solid 1px grey;
+	text-align: right;
+	font-size: 10px;
+	margin-top: 10px;
+	float: left;
+}
+
+.sponsor
+{
+	clear: both;
+	background-color: #C1C1B9;
+	width: 984px;
+	float: left;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.sponsor img
+{
+	float: left;
+	margin-left: 85px;
+}
+
+.mainMenuLink
+{
+	background-color: Black;
+	padding: 7px;
+	display: block;
+	float: left;
+	height: 86px;
+	width: 86px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.mainMenuLink a
+{
+	clear: both;
+	float: left;
+	width: 100px;
+	color: #FCD521;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+.mainMenuLink span
+{
+	color: White;
+	font-weight: bold;
+	font-size: 15px;
+	float: left;
+	margin-top: 30px;
+}
+
+.videoPlayers
+{
+	float: left; 
+	clear: both; 
+	height: 340px;
+}

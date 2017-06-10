@@ -1,0 +1,23 @@
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Argentina MarineMedia.Domain.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Argentina MarineMedia.Domain.pdb
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\obj\Debug\Argentina MarineMedia.Domain.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\obj\Debug\Argentina MarineMedia.Domain.pdb
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\NHibernate.Caches.SysCache.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\NHibernate.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\ProjectBase.Data.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\ProjectBase.Utils.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Iesi.Collections.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.MicroKernel.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.Windsor.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\log4net.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.DynamicProxy.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.Model.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\NHibernate.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Iesi.Collections.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.MicroKernel.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.Windsor.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\log4net.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.DynamicProxy.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\Castle.Model.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia.Domain\bin\Debug\NHibernate.Caches.SysCache.xml

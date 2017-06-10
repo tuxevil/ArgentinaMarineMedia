@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Argentina_MarineMedia.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <link href="/stylesheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11576211-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="websitearea">
+        <div style="float: left; margin-top:20px; margin-left: 65px;">
+            <a href="http://www.facebook.com/argmm"><img src="img/facebook-icon.png" alt="Like us in Facebook"/></a>
+            <a href="http://twitter.com/argmarinemedia"><img src="img/twittericon.png" alt="Follow us in Twitter" /></a>
+        </div>
+        <div class="logo">
+            <a href="/"><img src="img/amm_logo.jpg" /></a>
+        </div>
+        
+        <div style="float: right; margin-top: -120px;">
+            <iframe id="fr" src="http://www.youtube.com/subscribe_widget?p=ArgentinaMarineMedia" style="overflow: hidden; height: 97px; width: 250px; border: 0;" scrolling="no" frameBorder="0"></iframe>
+        </div>
+        
+        <div class="upcomingEvents">
+            <div class="upcomingEventsHeader">
+                <span>UPCOMING EVENTS</span>
+            </div>
+            <div class="upcomingEventsBody">
+                <asp:Label runat="server" ID="UpcomingEvents"></asp:Label>
+                
+            </div>
+        </div>
+        <div class="mainContent">
+            <div class="contactus"><a href="mailto:tomo@argmm.com.ar">contact us</a></div>
+            <asp:ContentPlaceHolder ID="cphMainBody" runat="server">
+            
+            </asp:ContentPlaceHolder>
+            
+        </div>
+        <div class="advertising">
+            <marquee direction="up" width=200 height=336 ><a href="http://contour.com/camera/contour_gps"><img src="http://d2141htz9zn2s2.cloudfront.net/product/gps/buy_now.png" width="200" height="200" /></a><br />
+            <a href="http://contour.com/camera/contour_hd"><img src="http://d2141htz9zn2s2.cloudfront.net/product/hd/buy_now_hd.png" width="200" height="200" /></a>
+            </marquee>
+        </div>
+        <div class="sponsor">
+            <a href="http://www.contour.com/"><img src="img/sponsor.png" /><img src="img/sponsor.png" /></a>
+        </div>
+        <div class="realware">developed by REALWARE</div>
+    </div>
+    </form>
+</body>
+</html>

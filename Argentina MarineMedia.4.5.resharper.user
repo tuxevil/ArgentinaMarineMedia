@@ -1,0 +1,124 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:SailPerformance.aspx" caret="310" fromTop="2" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Training.aspx" caret="241" fromTop="2" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Videos.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:LogIn.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Administration.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Extras.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Web.config" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:OnboardVideos.aspx" caret="1537" fromTop="16" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="1328" fromTop="21" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:TeamVodafoneSailing.aspx" caret="449" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Other.aspx" caret="405" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Optimist.aspx" caret="414" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Keelboats.aspx" caret="417" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="2695" fromTop="25" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:UpcomingEvents.xml" caret="311" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="1641" fromTop="18" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="1799" fromTop="27" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="2200" fromTop="17" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="1276" fromTop="6" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Keelboats.aspx" caret="0" fromTop="0" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:TeamVodafoneSailing.aspx" caret="315" fromTop="2" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:OnboardVideos.aspx" caret="1054" fromTop="8" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:OnboardVideos.aspx" caret="1520" fromTop="16" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="3404" fromTop="27" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Optimist.aspx" caret="413" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Other.aspx" caret="405" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:TeamVodafoneSailing.aspx" caret="449" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Keelboats.aspx" caret="417" fromTop="5" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="378" fromTop="11" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Stylesheet.css" caret="1327" fromTop="21" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="2475" fromTop="14" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="189" fromTop="6" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="2106" fromTop="18" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="2067" fromTop="19" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="10099" fromTop="16" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="2401" fromTop="19" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:UpcomingEvents.xml" caret="294" fromTop="8" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:UpcomingEvents.xml" caret="59" fromTop="2" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="597" fromTop="8" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="2616" fromTop="21" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:UpcomingEvents.xml" caret="294" fromTop="16" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master.cs" caret="1161" fromTop="7" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:UpcomingEvents.xml" caret="294" fromTop="9" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="959" fromTop="21" />
+      <File id="5B2D68B2-13F5-40EE-8716-FF760037D56E/f:Site.Master" caret="473" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Xml" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="upcomingEvents" priority="1" />
+      <Item value="UpcomingEvents" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="events" priority="1" />
+      <Item value="DateTime" priority="4" />
+      <Item value="element" priority="0" />
+      <Item value="startDate" priority="0" />
+      <Item value="endDate" priority="0" />
+      <Item value="upcomignEvents" priority="2" />
+      <Item value="tempEvent" priority="0" />
+      <Item value="if" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDateTime" priority="0" />
+      <Item value="ToInt32" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortTimeString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

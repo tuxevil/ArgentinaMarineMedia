@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Argentina_MarineMedia.Domain" namespace="Argentina_MarineMedia.Domain">
+  <class name="Video" table="Video" >
+    <id name="Id" type="System.Int32" column="Id">
+      <generator class="identity"/>
+    </id>
+
+    <property name="Name" column="Name" type="System.String" not-null="true" length="50"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,43 @@
+<publishData>
+  <publishTarget publishUrl="C:\Projects\Argentina MarineMedia\build\">
+    <file relUrl="Administration.aspx" publishTime="03/23/2011 15:02:34" />
+    <file relUrl="img/facebook-icon.png" publishTime="04/17/2011 14:16:22" />
+    <file relUrl="bin/log4net.dll" publishTime="10/30/2006 07:47:04" />
+    <file relUrl="img/twittericon.png" publishTime="04/17/2011 14:16:22" />
+    <file relUrl="img/menu9.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="Site.Master" publishTime="04/18/2011 21:23:39" />
+    <file relUrl="bin/log4net.xml" publishTime="10/30/2006 07:47:04" />
+    <file relUrl="OnboardVideos.aspx" publishTime="04/18/2011 14:10:21" />
+    <file relUrl="img/corner.png" publishTime="03/18/2011 16:54:26" />
+    <file relUrl="UpcomingEvents.xml" publishTime="04/18/2011 15:12:25" />
+    <file relUrl="Other.aspx" publishTime="04/18/2011 14:28:26" />
+    <file relUrl="img/amm_logo.jpg" publishTime="04/14/2011 12:03:16" />
+    <file relUrl="Extras.aspx" publishTime="03/18/2011 17:22:07" />
+    <file relUrl="img/menu10.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="bin/NHibernate.Caches.SysCache.xml" publishTime="05/03/2007 09:42:52" />
+    <file relUrl="img/sponsor.png" publishTime="03/18/2011 16:33:37" />
+    <file relUrl="bin/Iesi.Collections.xml" publishTime="05/03/2007 09:42:36" />
+    <file relUrl="Web.config" publishTime="04/18/2011 14:41:20" />
+    <file relUrl="img/menu4.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="bin/Argentina MarineMedia.dll" publishTime="04/18/2011 15:11:33" />
+    <file relUrl="img/menu6.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="img/menu2.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="Training.aspx" publishTime="03/18/2011 17:17:54" />
+    <file relUrl="LogIn.aspx" publishTime="03/23/2011 15:06:34" />
+    <file relUrl="bin/NHibernate.Caches.SysCache.dll" publishTime="05/03/2007 09:42:52" />
+    <file relUrl="bin/Iesi.Collections.dll" publishTime="05/03/2007 09:42:36" />
+    <file relUrl="bin/Argentina MarineMedia.pdb" publishTime="04/18/2011 15:11:33" />
+    <file relUrl="Videos.aspx" publishTime="03/23/2011 12:49:41" />
+    <file relUrl="img/menu8.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="SailPerformance.aspx" publishTime="03/18/2011 17:18:39" />
+    <file relUrl="Optimist.aspx" publishTime="04/18/2011 14:28:26" />
+    <file relUrl="Keelboats.aspx" publishTime="04/18/2011 14:28:27" />
+    <file relUrl="Stylesheet.css" publishTime="04/18/2011 14:30:08" />
+    <file relUrl="TeamVodafoneSailing.aspx" publishTime="04/18/2011 14:28:26" />
+    <file relUrl="img/menu5.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="img/menu1.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="img/menu7.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="img/menu3.png" publishTime="03/18/2011 15:25:30" />
+    <file relUrl="Default.aspx" publishTime="03/18/2011 17:22:20" />
+  </publishTarget>
+</publishData>

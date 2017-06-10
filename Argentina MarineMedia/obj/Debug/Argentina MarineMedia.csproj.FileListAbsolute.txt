@@ -1,0 +1,9 @@
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\Argentina MarineMedia.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\Argentina MarineMedia.pdb
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\obj\Debug\Argentina MarineMedia.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\obj\Debug\Argentina MarineMedia.pdb
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\Iesi.Collections.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\log4net.dll
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\log4net.xml
+C:\Projects\Argentina MarineMedia\Argentina MarineMedia\bin\Iesi.Collections.xml
